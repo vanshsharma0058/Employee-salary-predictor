@@ -1,4 +1,4 @@
-# 🧠 Employee Salary Predictor
+#  Employee Salary Predictor
 
 A machine learning web application built with **Flask** that predicts an employee's salary based on their years of experience using a **Linear Regression** model.
 
